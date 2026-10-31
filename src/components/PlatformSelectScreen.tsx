@@ -109,7 +109,7 @@ export const PlatformSelectScreen: React.FC<PlatformSelectScreenProps> = ({
                 </span>
                 <span className="font-mono text-zinc-500">
                   البروموكود المعتمد:{' '}
-                  <strong className="text-white font-mono-cyber">R11</strong>
+                  <strong className="text-white font-mono-cyber">{platform.promoCode}</strong>
                 </span>
               </div>
             </div>

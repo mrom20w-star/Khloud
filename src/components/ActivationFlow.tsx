@@ -39,7 +39,7 @@ export const ActivationFlow: React.FC<ActivationFlowProps> = ({
   const [errorMsg, setErrorMsg] = useState<string | null>(null);
 
   const registerUrl = platform.registerUrl || 'https://refpa83754.com/L?tag=d_6238052m_88828c_&site=6238052&ad=88828';
-  const promoCode = platform.promoCode || 'R11';
+  const promoCode = platform.promoCode || 'TYU23';
 
   const handleCopyCode = () => {
     sound.playClick();
@@ -176,7 +176,7 @@ export const ActivationFlow: React.FC<ActivationFlowProps> = ({
           </a>
         </div>
 
-        {/* Step 2: Promo Code R11 */}
+        {/* Step 2: Promo Code TYU23 */}
         <div className="rounded-2xl border border-white/10 bg-zinc-950/70 p-4.5 backdrop-blur-md shadow-lg space-y-3">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2.5">

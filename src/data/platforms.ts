@@ -12,6 +12,6 @@ export const PLATFORMS: PlatformConfig[] = [
     recommended: true,
     appDownloadUrl: 'https://spinbetter.games/2ar/login/',
     registerUrl: 'https://refpa83754.com/L?tag=d_6238052m_88828c_&site=6238052&ad=88828',
-    promoCode: 'R11',
+    promoCode: 'TYU23',
   },
 ];
