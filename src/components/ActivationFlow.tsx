@@ -38,7 +38,7 @@ export const ActivationFlow: React.FC<ActivationFlowProps> = ({
   const [verifyStep, setVerifyStep] = useState<number>(0);
   const [errorMsg, setErrorMsg] = useState<string | null>(null);
 
-  const registerUrl = platform.registerUrl || 'https://refpa83754.com/L?tag=d_6238052m_88828c_&site=6238052&ad=88828';
+  const registerUrl = platform.registerUrl || 'https://redirspinner.com/2Dk0?p=%2Fregistration%3Ftype%3Dfast%26bonus%3DCASINO';
   const promoCode = platform.promoCode || 'TYU23';
 
   const handleCopyCode = () => {
@@ -150,7 +150,7 @@ export const ActivationFlow: React.FC<ActivationFlowProps> = ({
             </p>
           </a>
 
-          {/* Button 1: Download App (Directly opens https://spinbetter.games/2ar/login/) */}
+          {/* Button 1: Download App */}
           <a
             href={platform.appDownloadUrl}
             target="_blank"
